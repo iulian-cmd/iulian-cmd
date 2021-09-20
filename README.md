@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning web development at Campus Numerique in the Alps </br>
-Contenu de la formation (non exhaustif) : </br>
+🌱 I’m currently learning web development at Campus Numerique in the Alps </br>
+  Contenu de la formation (non exhaustif) : </br>
 • Gestion de projet (méthodologie Agile et méthode SCRUM) </br>
 • HTML / CSS et le framework Bootstrap </br>
 • UI  /  UX (Figma) </br>
