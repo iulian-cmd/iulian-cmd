@@ -1,9 +1,8 @@
-<img src="74285CD0-187E-47D4-94A8-31826CC90C78.png" width=100%>
-     
-     ### Hi there / Bonjour 👋
-      🌱 J'apprends actuellement le développement web à Campus Numerique in the Alps </br>
-      Contenu de la formation (non exhaustif) : </br>
-    • Gestion de projet (méthodologie Agile et méthode SCRUM) </br>
+<img src="74285CD0-187E-47D4-94A8-31826CC90C78.png" width=100%>  </br> 
+    # Hi there / Bonjour 👋  </br>
+     J'apprends actuellement le développement web à Campus Numerique in the Alps: </br>
+     ✨ Contenu de la formation (non exhaustif): </br>
+    • Gestion de projet (méthodologie Agile et méthode SCRUM)</br>
     • HTML / CSS et le framework Bootstrap </br>
     • UI  /  UX (Figma) </br>
     • Algorithmique </br>
@@ -14,7 +13,8 @@
     • Réseaux et systèmes (protocole SSH et TCP/IP) </br>
     • Git, Github</br>
     • Anglais technique
-    • Alternance en entreprise
+    • Alternance en entreprise  </br> 
+    
     
 <img
   align="center"
