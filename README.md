@@ -1,3 +1,5 @@
+<img src="74285CD0-187E-47D4-94A8-31826CC90C78.png">
+
 ### Hi there / Bonjour 👋
 
 🌱 J'apprends actuellement le développement web à Campus Numerique in the Alps </br>
