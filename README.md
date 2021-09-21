@@ -18,5 +18,6 @@
     
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/?username=iulian-cmd&theme=gruvbox"
+  src="https://github-readme-stats.vercel.app/api/?username=iulian-cmd&theme=gruvbox&show_icons=true"
 />
+
