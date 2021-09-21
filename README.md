@@ -15,3 +15,8 @@
     • Git, Github</br>
     • Anglais technique
     • Alternance en entreprise
+    
+<img
+  align="center"
+  src="https://github-readme-stats.vercel.app/api/?username=iulian-cmd&theme=gruvbox"
+/>
