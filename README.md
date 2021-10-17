@@ -33,3 +33,5 @@ Programmes de traitement de l’image: Photoshop
   src="https://github-readme-stats.vercel.app/api/?username=iulian-cmd&theme=gruvbox&show_icons=true&count_private=true"
 />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iulian-cmd&hide=html&langs_count=10&layout=compact&count_private=true&card_width=444&
+)](https://github.com/iulian-cmd/github-readme-stats)
