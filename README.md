@@ -21,7 +21,7 @@ Contenu de la formation (non exhaustif):
 ```
 Autres compétences:
 ```python
-Systèmes d’exploitation: Windows et Linux
+Systèmes d’exploitation: Linux et Windows
 Plateformes technologiques de réservation: Amadeus 
 Systèmes de gestion de contenu (CMS): Joomla
 Connaissance du cloud: Amazon Web Services
