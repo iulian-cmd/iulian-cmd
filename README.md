@@ -24,7 +24,7 @@ Autres compétences:
 Systèmes d’exploitation: Linux et Windows
 Plateformes technologiques de réservation: Amadeus 
 Systèmes de gestion de contenu (CMS): Joomla
-Connaissance du cloud: Amazon Web Services
+Connaissance du cloud: Amazon Web Services (cours Fondamentaux AWS Cloud Practitioner)
 Programmes de traitement de l’image: Photoshop
 ```
 
