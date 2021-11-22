@@ -36,6 +36,6 @@ Programmes de traitement de l’image: Photoshop
 <td>
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iulian-cmd&theme=gruvbox&hide=html,hack,shell, scss&langs_count=10&layout=compact&count_private=true&card_width=444" /></td>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=iulian-cmd&theme=gruvbox&hide=html,hack,shell&langs_count=10&layout=compact&count_private=true&card_width=444" /></td>
    </tr>
 </table>
