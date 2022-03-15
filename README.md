@@ -13,8 +13,10 @@ Contenu de la formation (non exhaustif):
 • Algorithmique 
 • Javascript - SPA (Vue.js)
 • PHP / Bases de données (serveur WAMP, PHP framework Laravel, MySQL WorkBench, SQL)
+• Python 
 • Réseaux et systèmes (protocole SSH et TCP/IP) -> Docker
-• Git, Github, Gitlab
+• Composer, Npm, Git, Github, Gitlab
+• IOT ( scripts en C, Processing )
 • Anglais technique
 • Utilisation IDE: VSCode / Atom
 • Alternance en entreprise  
