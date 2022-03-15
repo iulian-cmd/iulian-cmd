@@ -19,7 +19,7 @@ Contenu de la formation (non exhaustif):
 • IOT ( scripts en C, Processing )
 • Anglais technique
 • Utilisation IDE: VSCode / Atom
-• Alternance en entreprise  
+ 
 ```
 Autres compétences:
 ```python
