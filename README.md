@@ -1,10 +1,6 @@
 <img src="74285CD0-187E-47D4-94A8-31826CC90C78.png" width=100%>  </br> 
 
 
-Hi there / Bonjour 👋 <br>
-J'apprends actuellement le développement web à Campus Numerique in the Alps.<br>
-Contenu de la formation (non exhaustif): 
-
 ```python
 • Gestion de projet (méthodologie Agile et méthode SCRUM)
 • HTML / CSS (Bootstrap / Tailwind)
