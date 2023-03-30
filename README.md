@@ -36,4 +36,10 @@ Programmes de traitement de l’image: Photoshop
   align="center"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=iulian-cmd&theme=gruvbox&hide=html,hack,shell&langs_count=10&layout=compact&count_private=true&card_width=444" /></td>
    </tr>
+ <tr>
+<td>
+ https://api.githubtrends.io/user/svg/iulian-cmd/repos?time_range=one_year&loc_metric=changed&theme=synthwaves
+
+</td>
+   </tr>
 </table>
