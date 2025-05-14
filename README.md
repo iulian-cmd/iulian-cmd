@@ -1,4 +1,4 @@
-# 👨‍💻 iulian — | Tech Explorer |
+# 👨‍💻 iulian — | Tech Enthousiaste |
 
 🔧 Passionate about clean code and seamless UI/UX.
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Interests
 
 - 🧭 **Project Management**: Agile, Scrum  
 - 🎨 **Frontend**: HTML, CSS (Tailwind, Bootstrap), Vue.js , JavaScript
